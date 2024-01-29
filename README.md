@@ -5,6 +5,6 @@
 -->
 
 - 🔭 I’m currently working on Printwayy as Tech Lead and as Asp.net MVC Programer teacher
-- 📫 How to reach me: [...](Linkedin)https://www.linkedin.com/in/george-hamilton-hamann-39b53141/
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/george-hamilton-hamann-39b53141/)
 - ⚡ Fun fact: I love bikes
 
