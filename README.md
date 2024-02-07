@@ -8,3 +8,5 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/george-hamilton-hamann-39b53141/)
 - ⚡ Fun fact: I love bikes
 
+https://github-readme-stats.vercel.app/api?username=drhamann&show_icons=true&count_private=true&line_height=40
+https://github-readme-stats.vercel.app/api/top-langs/?username=drhamann
