@@ -10,5 +10,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drhamann)](https://github.com/drhamann/github-readme-stats)
-[![Grade](https://github-readme-stats.vercel.app/api?username=drhamann&show_icons=true&count_private=true&line_height=40)](https://github.com/drhamann/github-readme-stats)
 
